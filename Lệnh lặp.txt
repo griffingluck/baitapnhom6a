@@ -1,0 +1,9 @@
+#include <stdio>
+int main ()
+{
+	int i;
+	for (i = 0; i < 100; i++); 
+	{
+		printf("gia tri cua i la %d",i+1); 
+	 } 
+}
