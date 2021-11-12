@@ -2,4 +2,5 @@
 int main ()
 {
     printf ("Xin chao chung minh la nhom 6a");
+    return 0;
 }
