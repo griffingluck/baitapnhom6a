@@ -6,4 +6,5 @@ int main ()
 	{
 		printf("gia tri cua i la %d",i+1); 
 	 } 
+	 return 0;
 }
